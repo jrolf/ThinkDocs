@@ -1,0 +1,38 @@
+
+The Vision for Think.dev:
+
+  Think.dev engineers excelent solutions to excelent problems.
+  
+  Helps small-to-medium sized companies identify and understand opportunities 
+  and strategies for implementing ML solutions
+  
+  Think.dev is an umbrella organization that coordinates the activities of 
+  highly talented Data/DevOps/ML/AI Engineers towards achieving interesting
+  and lucrative outcomes that positively contribute to a company's bottomline.
+  
+  Just as elite engineers have the luxury to choose where they work, 
+  Think.dev is concious and intentional about the employees we hire,
+  the clients we work with, and the contracts we accept.
+
+ 
+Consults and advises startups in the space of data strategy as it relates to 
+    ( 1) Analytics
+    ( 2) Data Science
+    ( 3) Predictive Analytics
+    ( 4) Actuarial Statistics
+    ( 5) Machine Learning Services
+    ( 6) Decision Support Systems
+    ( 7) Automated Decision Systems
+    ( 8) Optimization Algorithms
+    ( 9) High-Resolution Forecasting
+    (10) Complex Systems Modelling
+    (11) Stochastic Simulations
+
+  
+
+
+
+
+
+
+
